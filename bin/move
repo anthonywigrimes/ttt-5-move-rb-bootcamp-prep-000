@@ -3,6 +3,8 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 puts "Welcome to Tic Tac Toe!"
 puts "Top Row = 1, 2, 3"
 puts "Middle Row = 4, 5, 6"
