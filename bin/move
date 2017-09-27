@@ -13,3 +13,4 @@ puts "Please enter a move (1 - 9)?"
 move = gets.strip
 index = input_to_index(move)
 move(board, index)
+display_board(board)
