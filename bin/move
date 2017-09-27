@@ -12,3 +12,4 @@ puts "Bottom Row = 7, 8 , 9"
 puts "Please enter a move (1 - 9)?"
 move = gets.strip
 index = input_to_index(move)
+move(board, )
